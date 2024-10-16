@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@headlessui/react": "^1.7.17",
+    "@headlessui/react": "^2.1.10",
     "@heroicons/react": "^1.0.6",
     "@popperjs/core": "^2.11.8",
     "@videosdk.live/react-sdk": "^0.1.98",
